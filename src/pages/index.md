@@ -113,6 +113,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/nodata.png
       - title: Technical Content
         subtitle: 'Your products and services, at scale.'
         content: >-
